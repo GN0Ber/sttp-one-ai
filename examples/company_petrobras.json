@@ -1,0 +1,12 @@
+{
+  "ticker": "PETR4.SA",
+  "name": "Petróleo Brasileiro S.A. - Petrobras",
+  "sector": "Energy",
+  "industry": "Oil & Gas Integrated",
+  "country": "Brazil",
+  "description": "Brazilian energy company focused on oil exploration, production, refining, fuel distribution and related operations.",
+  "extra": {
+    "marketCap": 512345678901,
+    "currency": "BRL"
+  }
+}

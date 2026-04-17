@@ -1,0 +1,22 @@
+{
+  "company": {
+    "ticker": "PETR4.SA",
+    "name": "Petróleo Brasileiro S.A. - Petrobras",
+    "sector": "Energy",
+    "industry": "Oil & Gas Integrated",
+    "country": "Brazil",
+    "description": "Brazilian energy company focused on oil exploration, production, refining, fuel distribution and related operations.",
+    "extra": {
+      "marketCap": 512345678901,
+      "currency": "BRL"
+    }
+  },
+  "news": {
+    "title": "Oil prices rise on Middle East tensions and supply concerns",
+    "summary": "Crude prices advanced as investors reacted to geopolitical tensions and possible supply disruptions, supporting energy stocks.",
+    "publisher": "Reuters",
+    "published_at": "2026-04-17T12:00:00Z",
+    "url": "https://example.com/news/oil-prices-rise",
+    "extra": {}
+  }
+}
